@@ -1,5 +1,4 @@
-# forecasting_models
-Advanced Time Series Forecasting Suite: Leveraging Diverse Models for Predictive Analytics
+# Advanced Time Series Forecasting Suite: Leveraging Diverse Models for Predictive Analytics
 
 ## Overview
 The `forecasting_models` library is a comprehensive Python package designed for time series forecasting. It integrates various robust forecasting methodologies, making it an ideal tool for applications in finance, supply chain management, weather prediction, and more. This library is perfect for analysts, data scientists, and developers who seek efficient and accurate forecasting solutions.
