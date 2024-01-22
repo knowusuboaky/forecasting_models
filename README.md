@@ -14,14 +14,14 @@ The `forecasting_models` library is a comprehensive Python package designed for 
 ## Installation
 To install the package, run the following command:
 
-```bash
+```python
 pip install forecasting_models
 ```
 
 ## Usage
 Import the desired model from the package and use it in your project. For example:
 
-```bash
+```python
 from forecasting_models import generateProphetForecast
 from forecasting_models import generateXGBoostForecast
 from forecasting_models import generateRandomForestForecast
