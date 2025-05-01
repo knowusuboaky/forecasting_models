@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Versions](https://img.shields.io/pypi/pyversions/forecasting-models.svg)](https://pypi.org/project/forecasting-models/)
 [![PyPI version](https://img.shields.io/pypi/v/forecasting-models.svg)](https://pypi.org/project/forecasting-models/)
-[![Downloads](https://img.shields.io/pypi/dm/forecasting-models.svg?label=Downloads)](https://pypi.org/project/forecasting-models/#files)
+[![Downloads](https://pepy.tech/badge/forecasting-models)](https://pepy.tech/project/forecasting-models)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/knowusuboaky/forecasting_models/main.yml)](https://github.com/knowusuboaky/forecasting_models/actions)
 [![GitHub issues](https://img.shields.io/github/issues/knowusuboaky/forecasting_models.svg)](https://github.com/knowusuboaky/forecasting_models/issues)
 [![Email](https://img.shields.io/badge/Email-kwadwo.owusuboakye%40outlook.com-blue)](mailto:kwadwo.owusuboakye@outlook.com)
