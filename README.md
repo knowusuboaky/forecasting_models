@@ -1,5 +1,14 @@
 # Advanced Time Series Forecasting Suite: Leveraging Diverse Models for Predictive Analytics
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Versions](https://img.shields.io/pypi/pyversions/forecasting-models.svg)](https://pypi.org/project/forecasting-models/)
+[![PyPI version](https://img.shields.io/pypi/v/forecasting-models.svg)](https://pypi.org/project/forecasting-models/)
+[![Downloads](https://img.shields.io/pypi/dm/forecasting-models.svg?label=Downloads)](https://pypi.org/project/forecasting-models/#files)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/knowusuboaky/forecasting_models/main.yml)](https://github.com/knowusuboaky/forecasting_models/actions)
+[![GitHub issues](https://img.shields.io/github/issues/knowusuboaky/forecasting_models.svg)](https://github.com/knowusuboaky/forecasting_models/issues)
+[![Email](https://img.shields.io/badge/Email-kwadwo.owusuboakye%40outlook.com-blue)](mailto:kwadwo.owusuboakye@outlook.com)
+
+
 ## Overview
 The `forecasting_models` library is a comprehensive Python package designed for time series forecasting. It integrates various robust forecasting methodologies, making it an ideal tool for applications in finance, supply chain management, weather prediction, and more. This library is perfect for analysts, data scientists, and developers who seek efficient and accurate forecasting solutions.
 
